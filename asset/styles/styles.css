@@ -1,4 +1,4 @@
-body{
+body {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,11 +9,12 @@ body{
     background-color: #756969;
 }
 
-*{
+* {
     box-sizing: border-box;
+    
 }
 
-button{
+button {
     color: #fff;
     border: none;
     cursor: pointer;
@@ -21,24 +22,28 @@ button{
     padding: 20px;
     min-width: 300px;
     border-radius: 80px;
+
 }
 
-.btn1{
+.btn1 {
     background-color: aquamarine;
     color: #000;
+
 }
 
 .btn2{
     background-color: blueviolet;
     color: #fff;
+
 }
 
-.btn3{
+.btn3 {
     background-color: greenyellow;
     color: #fff;
+
 }
 
-.btn{
+.btn {
     display: flex;
     text-align: center;
     align-items: center;
@@ -46,4 +51,5 @@ button{
     justify-content: center;
     margin: 250px;
     gap: 3rem;
+
 }
