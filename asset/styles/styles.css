@@ -38,6 +38,16 @@ button {
   color: #fff;
 }
 
+.btn4 {
+  background-color: green;
+  color: #fff;
+}
+
+.btn5 {
+  background-color: palevioletred;
+  color: #000;
+}
+
 .btn {
   display: flex;
   text-align: center;
