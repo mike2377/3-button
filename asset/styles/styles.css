@@ -12,3 +12,38 @@ body{
 *{
     box-sizing: border-box;
 }
+
+button{
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    padding: 20px;
+    min-width: 300px;
+    border-radius: 80px;
+}
+
+.btn1{
+    background-color: aquamarine;
+    color: #000;
+}
+
+.btn2{
+    background-color: blueviolet;
+    color: #fff;
+}
+
+.btn3{
+    background-color: greenyellow;
+    color: #fff;
+}
+
+.btn{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 250px;
+    gap: 3rem;
+}
