@@ -11,7 +11,6 @@ body {
 
 * {
   box-sizing: border-box;
-
 }
 
 button {
@@ -22,25 +21,21 @@ button {
   padding: 20px;
   min-width: 300px;
   border-radius: 80px;
-
 }
 
 .btn1 {
   background-color: aquamarine;
   color: #000;
-
 }
 
 .btn2{
   background-color: blueviolet;
   color: #fff;
-
 }
 
 .btn3 {
   background-color: greenyellow;
   color: #fff;
-
 }
 
 .btn {
@@ -51,5 +46,4 @@ button {
   justify-content: center;
   margin: 250px;
   gap: 3rem;
-
 }
